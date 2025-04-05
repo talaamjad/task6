@@ -1,0 +1,56 @@
+
+.our-product{
+    width: 90%;
+    margin: auto;
+}
+.card{
+    width: 22%;
+    float: left;
+    border: 1px rgb(222, 222, 222) solid;
+    margin: 5px;
+}
+.clear-fix{
+    clear: left;
+}
+img{
+    height: 40%;
+    width: 90%;
+    margin: 5%;
+}
+p{
+    color: gray;
+    font-weight: bold;
+}
+.info{
+    width: 90%;
+    margin: 5%;
+}
+.current-price{
+    color: green;
+    font-weight: bold;
+}
+.old-price{
+    margin-left: 5%;
+    color: red;
+    font-weight: bold;
+    text-decoration: line-through;
+}
+.add-button{
+    background-color: dodgerblue;
+    color: white;
+    text-align: center;
+    width: 73%;
+    margin: 2.5%;
+    font-weight: bold;
+    font-size: 18px;
+}
+.fav-button{
+    border: dodgerblue solid 0.3px;
+    background-color: white;
+    text-align: center;
+    width: 15%;
+    margin: 2.5%;
+}
+.fa-heart{
+    font-size: 24px;
+}
